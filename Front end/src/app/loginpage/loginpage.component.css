@@ -1,0 +1,34 @@
+.form-inline
+{
+  margin-left: 10%;
+}
+
+input
+{
+  margin-top: 7%;
+}
+/*.container{
+  background-image: radial-gradient(hotpink,#93B5E1);
+}*/
+
+button
+ {
+  margin-top: 7%;
+  margin-bottom: 50%;
+ }
+.form-control
+{
+  width: 85%;
+}
+
+#container
+{
+  margin-top: 5%;
+  margin-left: 30%;
+  margin-right: 30%;
+}
+
+.alert
+{
+  width: 85%;
+}
